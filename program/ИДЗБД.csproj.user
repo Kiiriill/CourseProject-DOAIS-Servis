@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddCompletedWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddRepairPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddSupply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddTechnic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditCompletedWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditRepairPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditSupply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEditTechnic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMonthSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
